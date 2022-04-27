@@ -1,0 +1,16 @@
+{
+  "workbench.colorCustomizations": {
+    "editor.selectionBackground": "#6f15ffaf",
+    "editor.selectionHighlightBackground": "#6f15ffaf",
+    "editor.selectionHighlightBorder": "#d400ff",
+    "editorCursor.foreground": "#ffff00",
+    "editor.lineHighlightBackground": "#03971796",
+    "tab.activeBorderTop": "#d0ff00",
+    "tab.activeBackground": "#087191",
+    "tab.activeBorder": "#d0ff00",
+    "sideBar.border": "#960a77",
+    "activityBar.background": "#54094F",
+    "titleBar.activeBackground": "#760D6F",
+    "titleBar.activeForeground": "#FEFAFE"
+  }
+}
